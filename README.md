@@ -17,6 +17,6 @@ A professional password strength checking tool for Kali Linux and Windows.
 
 ### Kali Linux
 ```bash
-git clone https://github.com/YOUR-USERNAME/password_taster.git
+git clone https://github.com/ABDULLAH-KHAN09/password_taster.git
 cd password_taster
 python3 password_taster.py
